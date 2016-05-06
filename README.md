@@ -1,6 +1,8 @@
 # github-openstack
 Openstack Projects
+
 The OpenStack Configuration Service: Pluto
+
 Installation, expansion and configuration management is a long avoided pain point in the OpenStack world. 
 Pluto addresses this.
 
